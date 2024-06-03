@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e6ccb3; /* Marrom claro */
+    color: #663300; /* Marrom escuro */
+}
+
+header {
+    background-color: #4d2600; /* Marrom escuro */
+    color: #fff; /* Branco */
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #663300; /* Marrom escuro */
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    border: 1px solid #663300; /* Marrom escuro */
+    padding: 8px;
+}
+
+footer {
+    background-color: #4d2600; /* Marrom escuro */
+    color: #fff; /* Branco */
+    text-align: center;
+    padding: 10px;
+}
